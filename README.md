@@ -21,4 +21,4 @@ N/A
 N/A
 
 ## Interns I helped
-N/A
+- COBR (Corey Bright)
