@@ -1,5 +1,5 @@
 {
-    "name": "Color Code Price",
+    "name": "scientific_sale",
     
     "summary": "Color code the price if it is different from the previous sale price",
     
@@ -9,7 +9,7 @@
     
     "version": "0.1",
     
-    "category": "Sales",
+    "category": "customization",
     
     "license": "OPL-1",
     
@@ -19,12 +19,9 @@
         'views/sale_order_views.xml'
     ],
     
-    "demo": [
-    ],
+    "author": "odoo inc",
     
-    "author": "dewy",
-    
-    "website": "www.github.com/dewy-odoo",
+    "website": "www.odoo.com",
     
     "application": False,
     
